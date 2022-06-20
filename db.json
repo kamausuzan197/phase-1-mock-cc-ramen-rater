@@ -1,4 +1,5 @@
 {
+  
   "ramens": [
     {
       "id": 1,
@@ -39,6 +40,30 @@
       "image": "./assets/ramen/kojiro.jpg",
       "rating": 6,
       "comment": "Perfect for a cold night."
+    },
+    {
+      "name": "Abeku Cobbina",
+      "restaurant": "dfd",
+      "image": "https://www.pngall.com/wp-content/uploads/1/World-PNG-Clipart-180x180.png",
+      "rating": "3",
+      "comment": "fff",
+      "id": 8
+    },
+    {
+      "name": "Abeku Cobbina",
+      "restaurant": "dfd",
+      "image": "https://www.pngall.com/wp-content/uploads/1/World-PNG-Clipart-180x180.png",
+      "rating": "3",
+      "comment": "fff",
+      "id": 9
+    },
+    {
+      "name": "Abeku Cobbina",
+      "restaurant": "dfd",
+      "image": "https://www.pngall.com/wp-content/uploads/1/World-PNG-Clipart-180x180.png",
+      "rating": "2",
+      "comment": "fkghfi",
+      "id": 10
     }
   ]
-}
+} 
